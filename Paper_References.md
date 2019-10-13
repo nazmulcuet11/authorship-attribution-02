@@ -24,6 +24,13 @@ Main Idea: Authorship attribution from reddit comment
 Class Size: 4391
 Sample Size: 1004399 ** They have used 10 fold validatiom, In case of twitter they achived 97.5 and 86.8 f1 score for 10 and 50 authors respectevely, and in case of reddit they achieved 58.8 and 37.2 f1 score for 10 and 50 authors repectevely.
 
+4. [19] <br>
+bibTexID: ref_lncs5 <br>
+Link: https://ieeexplore.ieee.org/document/7555393
+Title: Authorship Attribution for Social Media Forensics
+Main Idea: Authorship identification for social media
+Sample Size: 10000000 tweets from 10000 authors
+Accuracy: 70% with 50 authors per test each having 50-500 tweets.
 
 
 
