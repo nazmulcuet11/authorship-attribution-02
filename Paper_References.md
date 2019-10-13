@@ -20,17 +20,26 @@ Accuracy: 70% for male, 80% for female.
 bibTextTD: ref_lncs4 <br>
 Link: https://arxiv.org/pdf/1609.06686.pdf <br>
 Title: Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution <br>
-Main Idea: Authorship attribution from reddit comment 
-Class Size: 4391
+Main Idea: Authorship attribution from reddit comment <br> 
+Class Size: 439 <br>
 Sample Size: 1004399 ** They have used 10 fold validatiom, In case of twitter they achived 97.5 and 86.8 f1 score for 10 and 50 authors respectevely, and in case of reddit they achieved 58.8 and 37.2 f1 score for 10 and 50 authors repectevely.
 
 4. [19] <br>
 bibTexID: ref_lncs5 <br>
-Link: https://ieeexplore.ieee.org/document/7555393
-Title: Authorship Attribution for Social Media Forensics
-Main Idea: Authorship identification for social media
-Sample Size: 10000000 tweets from 10000 authors
-Accuracy: 70% with 50 authors per test each having 50-500 tweets.
+Link: https://ieeexplore.ieee.org/document/7555393 <br>
+Title: Authorship Attribution for Social Media Forensics <br>
+Main Idea: Authorship identification for social media <br>
+Sample Size: 10000000 tweets from 10000 authors <br>
+Accuracy: 70% with 50 authors per test each having 50-500 tweets. 
+
+5. [7] <br>
+bibTexID: ref_lncs6 <br>
+Link: https://www.overleaf.com/project/5d2ea96607782070522210f4
+Title: Learning Stylometric Representations for Authorship Analysis
+Main Idea: Authorship Identification/ Topic detection (Age, Gender, Political orientation)
+Sample Size: ICWSM 2012 Twitter dataset, 192 male, 192 feamle, arround 300000 tweets
+Accuracy: Age 78%, Gender 84%, Political Orientation 93%, Average 85%
+
 
 
 
