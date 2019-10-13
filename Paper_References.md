@@ -55,6 +55,37 @@ Main Idea: Authorship Identification from source code. <br>
 Sample Size: 200 Source files of 10 programmers(20 Files each) <br>
 Accuracy: 85% <br>
 
+8. [12] <br>
+bibTexID: ref_lncs9 <br>
+Link: https://www.aclweb.org/anthology/W17-4914.pdf
+Title: Assessing the Stylistic Properties of Neurally Generated Text in
+Authorship Attribution <br>
+Main Idea: Assesment of neurally generated text using established model of stylometric analysis.
+Sample Size: 20 Neuraly generated texts<br>
+Accuracy: Not Applicable. Results shows that neurally generated text has f1 score ranged between 0.5 to 0.8 where convolutional model generated text has 0.8 to 1.0 f1 score when compared with real texts.<br>
+
+9. [10] <br>
+bibTexID: ref_lncs10 <br>
+Link: https://www.researchgate.net/publication/307854016_Text_categorization_with_machine_learning_and_hierarchical_structures/link/5b61555c458515c4b256e073/download <br>
+Title: Text categorization with machine learning and hierarchical structures <br>
+Main Idea: Provide an overview of machine learning approaches used for text categorization. Comparison on performance and efficiency of text calssification using hierarchical structures. <br>
+Sample Size: N/A. As they merely compared other researchers works.
+Accuracy: N/A. In general they showed that performance and efficiency of text classification using hierarchical structures is better than flat approach. <br>
+
+10, 11. [16] [17] <br>
+bibTexID: ref_lncs11
+Link: https://ieeexplore.ieee.org/document/7875984 <br>
+Title: A machine learning approach for authorship attribution for Bengali blogs <br>
+bibTexID: ref_lncs12 <br>
+Link: https://dl.acm.org/citation.cfm?id=3099473 <br>
+Title: A Supervised Learning Approach for Authorship Attribution of Bengali Literary Texts <br>
+Main Idea: proposed machine learning based algorithms for author identification <br>
+
+
+
+
+
+
 
 
 
