@@ -16,9 +16,13 @@ Class size: 2 {male, female}
 Sample Size: 50 (30 male, 20 female)
 Accuracy: 70% for male, 80% for female.
 
-
-
-
+3. [20] <br>
+bibTextTD: ref_lncs4 <br>
+Link: https://arxiv.org/pdf/1609.06686.pdf <br>
+Title: Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution <br>
+Main Idea: Authorship attribution from reddit comment 
+Class Size: 4391
+Sample Size: 1004399 ** They have used 10 fold validatiom, In case of twitter they achived 97.5 and 86.8 f1 score for 10 and 50 authors respectevely, and in case of reddit they achieved 58.8 and 37.2 f1 score for 10 and 50 authors repectevely.
 
 
 
